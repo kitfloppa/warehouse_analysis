@@ -6,6 +6,7 @@ wget
 # Base ----------------------------------------
 numpy
 pandas
+openpyxl
 statistics
 
 # Plotting ------------------------------------
